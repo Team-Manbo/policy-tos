@@ -34,7 +34,7 @@
 
 ## 개인정보 개인정보 보호 정책
 
-[개인정보 보호정책](https://github.com/Team-Manbo/policy-tos/blob/main/privacy%20policy%20ko.md)을 참조하세요.
+[개인정보 보호정책](https://github.com/Team-Manbo/policy-tos/blob/main/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8(Privacy%20Policy).md)을 참조하세요.
 
 ## 문의
 
